@@ -1,0 +1,16 @@
+#app {
+    min-height: 100vh;
+}
+
+.full-screen {
+    min-height: 100vh;
+    min-width: 100vw;
+}
+.auto-margin {
+    margin:auto;
+}
+
+.disabled {
+    pointer-events: none;
+    opacity: 0.5;
+}
